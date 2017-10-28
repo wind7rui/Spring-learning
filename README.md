@@ -14,3 +14,5 @@ Spring源码学习笔记，可以点击下面的目录进行查看，也可以�
 - [Spring源码学习十：DispatcherServlet请求分发源码分析](https://github.com/wind7rui/Spring-learning/blob/master/pdf/Spring%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E5%8D%81%EF%BC%9ADispatcherServlet%E8%AF%B7%E6%B1%82%E5%88%86%E5%8F%91%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.pdf)
 - [Spring源码学习十一：SpringMVC-@RequestBody接收json数据报415](https://github.com/wind7rui/Spring-learning/blob/master/pdf/Spring%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E5%8D%81%E4%B8%80%EF%BC%9ASpringMVC-%40RequestBody%E6%8E%A5%E6%94%B6json%E6%95%B0%E6%8D%AE%E6%8A%A5415.pdf)
 - [Spring源码学习十二：@Transactional是如何工作的](https://github.com/wind7rui/Spring-learning/blob/master/pdf/Spring%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E5%8D%81%E4%BA%8C%EF%BC%9A%40Transactional%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84.pdf)
+
+- [Spring源码学习十三：IntrospectorCleanupListener解析](https://github.com/wind7rui/Spring-learning/blob/master/pdf/Spring%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E5%8D%81%E4%B8%89%EF%BC%9AIntrospectorCleanupListener%E8%A7%A3%E6%9E%90.pdf)
