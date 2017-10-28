@@ -3,7 +3,6 @@ Spring源码学习笔记，可以点击下面的目录进行查看，也可以�
 # 目录
 - [Spring源码学习一：源码分析概述](https://github.com/wind7rui/Spring-learning/blob/master/Spring%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E4%B8%80%EF%BC%9A%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E6%A6%82%E8%BF%B0.md)
 - [Spring源码学习二：BeanDefinition解析](https://github.com/wind7rui/Spring-learning/blob/master/Spring%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E4%BA%8C%EF%BC%9ABeanDefinition%E8%A7%A3%E6%9E%90.md)
-- [Spring源码学习二：BeanDefinition解析](https://github.com/wind7rui/Spring-learning/blob/master/pdf/Spring%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E4%BA%8C%EF%BC%9ABeanDefinition%E8%A7%A3%E6%9E%90.pdf)
 - [Spring源码学习三：BeanFactory解析](https://github.com/wind7rui/Spring-learning/blob/master/pdf/Spring%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E4%B8%89%EF%BC%9ABeanFactory%E8%A7%A3%E6%9E%90.pdf)
 - [Spring源码学习四：BeanDefinition装载前奏曲](https://github.com/wind7rui/Spring-learning/blob/master/pdf/Spring%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E5%9B%9B%EF%BC%9ABeanDefinition%E8%A3%85%E8%BD%BD%E5%89%8D%E5%A5%8F%E6%9B%B2.pdf)
 - [Spring源码学习五：BeanDefinition装载](https://github.com/wind7rui/Spring-learning/blob/master/pdf/Spring%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E4%BA%94%EF%BC%9ABeanDefinition%E8%A3%85%E8%BD%BD.pdf)
