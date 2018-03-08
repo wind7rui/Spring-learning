@@ -15,7 +15,7 @@
 - [深入理解Spring系列之十一：SpringMVC-@RequestBody接收json数据报415](https://mp.weixin.qq.com/s/beRttZyxM3IBJJSXsLzh5g)
 - [深入理解Spring系列之十二：@Transactional是如何工作的](https://mp.weixin.qq.com/s/ZwhkUQF1Nun9pNrFI-3a6w)
 - [深入理解Spring系列之十三：IntrospectorCleanupListener解析](https://mp.weixin.qq.com/s/6LStVBDc4vU7q1QBZkC_5w)
-* 更新中...
+- 更新中...
 
 ## 关于我
 * [头条号：Java实战技术](https://www.toutiao.com/c/user/62859607968/#mid=1575311975640078)
